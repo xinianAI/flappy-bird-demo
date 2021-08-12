@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/flapPyBirdDemo/game//saved_parameters/dqn_Nature/bird-3700000"
+all_model_checkpoint_paths: "D:/flapPyBirdDemo/game//saved_parameters/dqn_Nature/bird-3300000"
+all_model_checkpoint_paths: "D:/flapPyBirdDemo/game//saved_parameters/dqn_Nature/bird-3400000"
+all_model_checkpoint_paths: "D:/flapPyBirdDemo/game//saved_parameters/dqn_Nature/bird-3500000"
+all_model_checkpoint_paths: "D:/flapPyBirdDemo/game//saved_parameters/dqn_Nature/bird-3600000"
+all_model_checkpoint_paths: "D:/flapPyBirdDemo/game//saved_parameters/dqn_Nature/bird-3700000"
